@@ -1,6 +1,6 @@
 # Exoplanets D3.js
 
-[Exoplanets](exoplanets.gif "Exoplanets")
+![Exoplanets](exoplanets.gif "Exoplanets")
 
 Demo: [View the Block](http://bl.ocks.org/danaoira/6b271c84d8a22789b6145ff1e82d8eb4)
 
